@@ -1,0 +1,21 @@
+name: Build
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "*" ]
+
+jobs:
+  build-and-test:
+    name: Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install
+        run: npm install --force
+      - name: Pre-Compile
+        run: npm run apiSetup
+      - name: Compile
+        uses: icrawl/action-tsc@v1
