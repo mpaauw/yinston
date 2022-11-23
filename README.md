@@ -1,2 +1,2 @@
 # yinston (wip)
-A fully-featured, production-ready wrapper for Winston.
+A light, easy-to-use, production-ready wrapper for Winston.
