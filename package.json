@@ -1,5 +1,5 @@
 {
-  "name": "yinston",
+  "name": "@mpaauw/yinston",
   "version": "0.1.0",
   "description": "A fully-featured, production-ready wrapper for Winston.",
   "main": "build/main/index.js",
