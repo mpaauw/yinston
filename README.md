@@ -1,7 +1,7 @@
 ![Build Health](https://github.com/mpaauw/yinston/actions/workflows/build.yml/badge.svg)
 
 # yinston (wip)
-A fully-featured, production-ready wrapper for Winston.
+A light, easy-to-use, production-ready wrapper for [Winston](https://www.npmjs.com/package/winston).
 
 ## Installation
 To get started, simply install via npm:
