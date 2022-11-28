@@ -1,6 +1,6 @@
 [![Build](https://github.com/mpaauw/yinston/actions/workflows/build.yaml/badge.svg)](https://github.com/mpaauw/yinston/actions/workflows/build.yaml)
 
-# yinston (wip)
+# yinston
 A light, easy-to-use, production-ready wrapper for [Winston](https://www.npmjs.com/package/winston).
 
 ## Installation
