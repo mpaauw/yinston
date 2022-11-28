@@ -1,5 +1,5 @@
 {
-  "name": "yinston",
+  "name": "@mpaauw/yinston",
   "version": "0.1.0",
   "description": "A fully-featured, production-ready wrapper for Winston.",
   "main": "build/main/index.js",
@@ -52,7 +52,7 @@
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@typescript-eslint/eslint-plugin": "^4.0.1",
     "@typescript-eslint/parser": "^4.0.1",
-    "ava": "^3.12.1",
+    "ava": "^5.1.0",
     "codecov": "^3.5.0",
     "cspell": "^4.1.0",
     "cz-conventional-changelog": "^3.3.0",
@@ -71,7 +71,7 @@
     "prettier": "^2.1.1",
     "standard-version": "^9.0.0",
     "ts-node": "^9.0.0",
-    "typedoc": "^0.19.0",
+    "typedoc": "^0.23.21",
     "typescript": "^4.0.2"
   },
   "files": [
