@@ -1,4 +1,6 @@
 [![Build](https://github.com/mpaauw/yinston/actions/workflows/build.yaml/badge.svg)](https://github.com/mpaauw/yinston/actions/workflows/build.yaml)
+[![npm version](https://badge.fury.io/js/@mpaauw%2Fyinston.svg)](https://badge.fury.io/js/@mpaauw%2Fyinston)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # yinston
 A light, easy-to-use, production-ready wrapper for [Winston](https://www.npmjs.com/package/winston).
