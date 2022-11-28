@@ -17,7 +17,7 @@ To use Yinston for logging, first instantiate your logger, passing in an optiona
 
 ### Instantiation
 ```typescript
-import { Logger } from 'winston';
+import { Logger } from '@mpaauw/yinston';
 import { YinstonLogger } from '@mpaauw/yinston';
 
 const logger: Logger = YinstonLogger.createLogger(__filename);
