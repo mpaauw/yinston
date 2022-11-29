@@ -1,6 +1,6 @@
 {
   "name": "@mpaauw/yinston",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A light, easy-to-use, production-ready wrapper for Winston.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
